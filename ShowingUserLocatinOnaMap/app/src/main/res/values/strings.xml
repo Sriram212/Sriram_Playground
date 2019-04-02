@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Showing User Locatin On a Map</string>
+    <string name="title_activity_maps">Map</string>
+</resources>
